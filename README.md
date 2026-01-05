@@ -4,7 +4,7 @@
 Software Engineer passionate about Backend, Python, SQL, and data-driven problem solving.
 
 ### 🔗 Connect
-- **LinkedIn:** linkedin.com/in/mphani/
+- **LinkedIn:** [linkedin.com/in/mphani/](https://www.linkedin.com/in/mphani/)
 - **GitHub:** [phani06041](https://github.com/phani06041)
 - **Email:** phanindra.maddipatla@gmail.com
 
