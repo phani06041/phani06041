@@ -140,8 +140,8 @@ A fully local, privacy-first RAG chatbot. Drop in PDFs, TXT or DOCX and ask ques
 <h2>📊 GitHub universe</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phani06041&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=8A2BE2&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phani06041&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&langs_count=8" height="170" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/phani06041/phani06041/cards/stats.svg" height="190" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/phani06041/phani06041/cards/top-langs.svg" height="190" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -149,7 +149,7 @@ A fully local, privacy-first RAG chatbot. Drop in PDFs, TXT or DOCX and ask ques
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phani06041&bg_color=0D1117&color=00C6FF&line=8A2BE2&point=FFFFFF&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20pulse" width="100%" alt="Activity graph" />
+  <img src="https://raw.githubusercontent.com/phani06041/phani06041/cards/activity.svg" width="100%" alt="Contribution pulse" />
 </p>
 
 <!-- ════════════════════════  SNAKE  ════════════════════════ -->
