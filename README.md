@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://phani06041.github.io/"><img src="https://img.shields.io/badge/Portfolio-phani06041.github.io-FFE45C?style=for-the-badge&logo=googlechrome&logoColor=17143F" alt="Portfolio" /></a>
   <a href="mailto:phanindra.maddipatla@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-00C6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=phani06041&label=Profile%20views&color=302b63&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/phani06041?tab=followers"><img src="https://img.shields.io/github/followers/phani06041?label=Followers&style=for-the-badge&color=0f0c29&logo=github" alt="Followers" /></a>
