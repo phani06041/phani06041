@@ -104,7 +104,7 @@ def stats_card(u, repos):
             f'<text x="25" y="{y}" class="l">{icon}  {label}</text>'
             f'<text x="330" y="{y}" class="v" text-anchor="end">{val:,}</text></g>'
         )
-    return frame(360, 230, f"{u['name'] or USER}'s GitHub stats", body)
+    return frame(360, 230, "📊 GitHub stats", body)
 
 
 def langs_card(repos, top=6):
