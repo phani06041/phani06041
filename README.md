@@ -35,9 +35,9 @@ class Phanindra:
         return "Shipping agents that get better every time they run 🔁"
 ```
 
-- 🚦 Taught an agent to time the signals at **Silk Board** — it rewrote its own playbook from **38 → 96**
 - 🩸 Built **Blood Bridge** to turn WhatsApp blood forwards into verified, closed-loop requests
 - 🕵️ Made a **self-privacy scanner** that maps your public digital footprint
+- 🚦 Taught an agent to time the signals at **Silk Board** — it rewrote its own playbook from **38 → 96**
 - 🏆 Regular at hackathons — I like a deadline and a hard problem
 - 🤝 Open to collaborations on AI, agents and open source
 
@@ -48,24 +48,14 @@ class Phanindra:
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 [Silk Board Fixer](https://github.com/phani06041/silk-board-fixer)
-An agent that plans signal timings at Bengaluru's most infamous junction, reads a second-by-second simulator report, then **rewrites its own playbook** and runs again.
-
-**Run 1 → Run 4: `38.3 → 96.1`** on frozen scenarios (incl. IPL night & monsoon rush).
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Self--improving%20agent-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/Simulation-00C6FF?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
 ### 🩸 [Blood Bridge](https://github.com/phani06041/blood-bridge)
 Turns an urgent blood request into a **verified, live hunt** across nearby blood banks and opt-in donors in Bengaluru — inside one ASI:One chat. Blocks "processing fee" scams and tracks each request until fulfilled.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/AI%20Agent-C41E3A?style=flat-square" /> <img src="https://img.shields.io/badge/HealthTech-FF4D6D?style=flat-square" /> <img src="https://img.shields.io/badge/Hackathon-5F43F1?style=flat-square" />
 
+<a href="https://asi1.ai/ai/agent1qwmsdzdktw8xrl8tz3zhahwr54nw32u9efwq9u57pw0629pa8ldeywy9def"><img src="https://img.shields.io/badge/Try%20the%20agent-ASI%3AOne-C41E3A?style=flat-square" /></a> <a href="https://youtu.be/FusOGbrEeo4"><img src="https://img.shields.io/badge/Demo%20video-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🕵️ [Digital Footprints](https://github.com/phani06041/digital-footprints)
@@ -74,6 +64,8 @@ A self-privacy scanner: searches the public web for you, links every finding to 
 <a href="https://digital-footprints.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-46E3B7?style=flat-square&logo=render&logoColor=white" /></a> <a href="https://youtu.be/5gLTz1Skw8k"><img src="https://img.shields.io/badge/Demo%20video-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌟 [AI Resume Pro](https://github.com/phani06041/AI_Resume_optimiser)
@@ -82,8 +74,6 @@ Parses a résumé, scores it against a job description and rewrites it — with 
 <a href="https://phani06041.github.io/AI_Resume_optimiser/"><img src="https://img.shields.io/badge/Live%20app-222222?style=flat-square&logo=githubpages&logoColor=white" /></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [Fraud Sentinel](https://github.com/phani06041/fraud-detection-slm)
@@ -92,12 +82,24 @@ Fraud detection pipeline: data forensics → prompt-injection defence → behavi
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Llama%203.2%201B-0467DF?style=flat-square&logo=meta&logoColor=white" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔮 [RAG Knowledge Bot](https://github.com/phani06041/rag-knowledge-bot)
 A fully local, privacy-first RAG chatbot. Drop in PDFs, TXT or DOCX and ask questions — with per-file filtering, Redis caching, auto-ingest and session memory.
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Llama3-0467DF?style=flat-square&logo=meta&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🚦 [Silk Board Fixer](https://github.com/phani06041/silk-board-fixer)
+An agent that plans signal timings at Bengaluru's most infamous junction, reads a second-by-second simulator report, then **rewrites its own playbook** and runs again.
+
+**Run 1 → Run 4: `38.3 → 96.1`** on frozen scenarios (incl. IPL night & monsoon rush).
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Self--improving%20agent-8A2BE2?style=flat-square" /> <img src="https://img.shields.io/badge/Simulation-00C6FF?style=flat-square" /> <a href="https://youtu.be/gsxnndaB_pY"><img src="https://img.shields.io/badge/Demo%20video-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 
 </td>
 </tr>
