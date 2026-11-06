@@ -19,39 +19,27 @@
 <!-- ════════════════════════  ABOUT  ════════════════════════ -->
 <h2>🧬 About me</h2>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ```python
 class Phanindra:
-    role       = "Software Engineer"
-    based_in   = "Bengaluru, India 🇮🇳"
-    building   = ["AI agents", "LLM + RAG apps", "self-improving systems"]
-    toolbox    = {
-        "code":  ["Python", "JavaScript", "TypeScript", "C"],
-        "ai":    ["LLMs", "RAG", "SLMs", "Genetic Algorithms"],
-        "web":   ["FastAPI", "React", "Node.js", "Vite"],
-        "data":  ["ChromaDB", "MongoDB", "MySQL", "Redis"],
+    role     = "Software Engineer @ Sagility"
+    based_in = "Bengaluru, India 🇮🇳"
+    building = ["AI agents", "LLM + RAG apps", "self-improving systems"]
+    toolbox  = {
+        "code": ["Python", "JavaScript", "TypeScript", "C"],
+        "ai":   ["LLMs", "RAG", "SLMs", "Genetic Algorithms"],
+        "web":  ["FastAPI", "React", "Node.js", "Vite"],
+        "data": ["ChromaDB", "MongoDB", "MySQL", "Redis"],
     }
-    motto      = "Think. Build. Learn. Repeat."
 
     def currently(self):
         return "Shipping agents that get better every time they run 🔁"
 ```
-
-</td>
-<td width="42%" valign="top">
 
 - 🚦 Taught an agent to time the signals at **Silk Board** — it rewrote its own playbook from **38 → 96**
 - 🩸 Built **Blood Bridge** to turn WhatsApp blood forwards into verified, closed-loop requests
 - 🕵️ Made a **self-privacy scanner** that maps your public digital footprint
 - 🏆 Regular at hackathons — I like a deadline and a hard problem
 - 🤝 Open to collaborations on AI, agents and open source
-
-</td>
-</tr>
-</table>
 
 <!-- ════════════════════════  PROJECTS  ════════════════════════ -->
 <h2>🚀 Featured builds</h2>
